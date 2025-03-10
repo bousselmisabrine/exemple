@@ -11,6 +11,10 @@ print('la somme est =', som)
 
 # main.py
 def greet():
+<<<<<<< HEAD
     return "Hello, Word"
+=======
+    return "Bonjour, le monde!"
+>>>>>>> feature_list
 
 
